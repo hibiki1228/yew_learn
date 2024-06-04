@@ -13,4 +13,5 @@ rustup target add wasm32-unknown-unknown
 # Trunk also provides prebuilt binaries for a number of major package managers
 # See https://trunkrs.dev/#install for further details
 cargo install --locked trunk
+cargo install wasm-pack
 ```
